@@ -16,7 +16,7 @@
 - 🌐 Falando em: **Português, Inglês, Chinês (básico)**
 
 ---
-
+<!--
 ## 🚀 **Projetos Destacados**
 
 📊 **[Sistema de Análise de Emoções](https://github.com/seu-repo)**  
@@ -28,7 +28,7 @@
 🏋️ **[App de Treinos Customizados](https://github.com/seu-repo)**  
 📱 Aplicativo mobile com planos de treino personalizados e acompanhamento em tempo real.
 
----
+--->
 
 ## 🛠️ **Minhas Tecnologias e Ferramentas**
 
@@ -50,8 +50,8 @@
 
 ## 📈 **Estatísticas do GitHub**
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deverton1&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deverton1&layout=compact&theme=radical)
 
 ---
 
