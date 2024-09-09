@@ -41,9 +41,9 @@
 
 ## 🌍 **Vamos nos Conectar?**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Everton-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-Everton-lightgrey?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:everton@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Everton-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/everton-rabelo-511616286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-Everton-lightgrey?style=for-the-badge&logo=github)](https://github.com/deverton1)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:evertonrabelo113@gmail.com)
 
 ---
 
