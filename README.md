@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou **Everton**!
 
-🔗 **Conectando ideias e código para transformar o mundo!**
+🔗 **Conectando ideias e código para transformar o mundo!**!
 
-![Banner Personalizado](https://via.placeholder.com/1200x300.png?text=Bem+vindo+ao+meu+GitHub)
+
+![Banner Personalizado](https://github.com/user-attachments/assets/0f37ca6a-6ffe-4b9e-900c-2985dd9b81e9?text=Bem-Vindo)
 
 
 ---
