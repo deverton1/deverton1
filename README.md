@@ -2,9 +2,7 @@
 
 🔗 **Conectando ideias e código para transformar o mundo!**
 
-<div style="width: 1200px; height: 300px; background: linear-gradient(90deg, #FF6A00, #FF0099); display: flex; align-items: center; justify-content: center; color: white; font-size: 36px; font-family: Arial, sans-serif;">
-  Bem vindo ao meu GitHub
-</div>
+![Banner Personalizado](https://imgur.com/a/12Tsb2o)
 
 ---
 
