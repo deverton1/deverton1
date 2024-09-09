@@ -2,7 +2,8 @@
 
 🔗 **Conectando ideias e código para transformar o mundo!**
 
-![Banner Personalizado](https://imgur.com/a/12Tsb2o)
+![Banner Personalizado](https://via.placeholder.com/1200x300.png?text=Bem+vindo+ao+meu+GitHub)
+
 
 ---
 
