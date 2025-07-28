@@ -3,7 +3,7 @@
 🔗 **Conectando ideias e código para transformar o mundo!**!
 
 
-![Banner Personalizado]([https://github.com/user-attachments/assets/0f37ca6a-6ffe-4b9e-900c-2985dd9b81e9](https://www.canva.com/design/DAGt5nEB5ls/ezEL-GROjyUTX3CMETlQlg/view?utm_content=DAGt5nEB5ls&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9bf95c7566))
+![Banner Personalizado](https://github.com/user-attachments/assets/0f37ca6a-6ffe-4b9e-900c-2985dd9b81e9))
 
 
 ---
