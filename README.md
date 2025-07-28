@@ -3,7 +3,7 @@
 🔗 **Conectando ideias e código para transformar o mundo!**!
 
 
-![Banner Personalizado](https://github.com/user-attachments/assets/0f37ca6a-6ffe-4b9e-900c-2985dd9b81e9))
+![Banner Personalizado](https://github.com/user-attachments/assets/0f37ca6a-6ffe-4b9e-900c-2985dd9b81e9)
 
 
 ---
