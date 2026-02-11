@@ -1,54 +1,148 @@
-# 👋 Olá, me chamo **Everton**!
+<!-- ✨ VERSÃO SUPREMA DO README DE EVERTON ✨ -->
 
-🔗 **Conectando ideias e código para transformar o mundo!**!
+<!-- Top Animation -->
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+# 👋 Hey! Eu sou o **Everton Rabelo**  
+### 🔥 Full Stack Developer | AI Explorer | Computer Vision Enthusiast  
 
-![Banner Personalizado](https://github.com/user-attachments/assets/0f37ca6a-6ffe-4b9e-900c-2985dd9b81e9)
-
-
----
-
-## 🌟 Sobre mim
-
-- 💻 Desenvolvedor Full Stack focado em **inovação**, **automação** e **eficiência**.
-- 🎯 Sempre em busca de **desafios** que estimulem minha **criatividade** e habilidades técnicas.
-- 🌱 Atualmente explorando: **Inteligência Artificial e Visão Computacional**
-- 🌐 Falando em: **Português, Inglês**
-
----
-<!--
-## 🚀 **Projetos Destacados**
-
-📊 **[Sistema de Análise de Emoções](https://github.com/seu-repo)**  
-🔍 Utilizando **OpenCV** e **MediaPipe** para identificar emoções e gestos.
-
-🗂️ **[Gerenciador de Arquivos para Escritórios](https://github.com/seu-repo)**  
-🖥️ Um sistema de monitoramento para servidores de contabilidade.
-
-🏋️ **[App de Treinos Customizados](https://github.com/seu-repo)**  
-📱 Aplicativo mobile com planos de treino personalizados e acompanhamento em tempo real.
-
---->
-
-## 🛠️ **Minhas Tecnologias e Ferramentas**
-
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
-|----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Static Badge](https://img.shields.io/badge/postgre-SQL-blue) |
-| **Outras Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+⚡ **Transformando código em soluções inteligentes e profissionais.**  
+🚀 Criatividade, profundidade técnica e visão inovadora no centro de tudo que construo.  
 
 ---
 
-## 🌍 **Vamos nos Conectar?**
+## 🎯 Sobre Mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Everton-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/everton-rabelo-511616286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Sou um desenvolvedor Full Stack com paixão real por tecnologia e inovação.  
+Minhas soluções sempre buscam **eficiência**, **automação**, **inteligência** e **impacto real**.
+
+- 💻 Criação de sistemas completos (Front + Back)
+- 🧠 Pesquisa ativa em Inteligência Artificial e Visão Computacional
+- 🛠️ Arquitetura de aplicações escaláveis
+- 🚀 Foco em produtividade, performance e código limpo
+- 🌍 Falo **Português** e **Inglês**
+
+---
+
+# 🏆 Estatísticas & Conquistas
+
+<div align="center">
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=deverton1&theme=matrix&no-frame=true&margin-w=10" />
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=deverton1&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 💡 Competências Principais
+
+## 🔥 Linguagens
+![Python](https://skillicons.dev/icons?i=python)
+![cs](https://skillicons.dev/icons?i=cs)
+![js](https://skillicons.dev/icons?i=js)
+![ts](https://skillicons.dev/icons?i=ts)
+![bash](https://skillicons.dev/icons?i=bash)
+
+## ⚙️ Frameworks & Tecnologias
+![Flask](https://skillicons.dev/icons?i=flask)
+![React](https://skillicons.dev/icons?i=react)
+![dotnet](https://skillicons.dev/icons?i=dotnet)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![opencv](https://skillicons.dev/icons?i=opencv)
+![mediapipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+
+## 🗄️ Banco de Dados
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![SqlServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+## 🛠️ DevOps, Ferramentas & Ambientes
+![git](https://skillicons.dev/icons?i=git)
+![docker](https://skillicons.dev/icons?i=docker)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![linux](https://skillicons.dev/icons?i=linux)
+![postman](https://skillicons.dev/icons?i=postman)
+
+---
+
+# ⚡ Meus Superpoderes Técnicos
+
+### ✔ Desenvolvimento Full Stack completo  
+### ✔ Construção de APIs robustas e seguras  
+### ✔ IA aplicada a problemas reais  
+### ✔ Visão Computacional com OpenCV & MediaPipe  
+### ✔ Automação de processos  
+### ✔ Arquitetura de software moderna (Clean, SOLID)  
+### ✔ Design intuitivo e responsivo  
+
+---
+
+# 🚀 Projetos Destaque (Seleção Suprema)
+
+### 🤖 **Analisador Inteligente de Emoções**
+- OpenCV + IA  
+- Reconhecimento facial, emoções e gestos  
+- Pipeline completo e otimizado  
+
+### 🗂️ **Sistema Administrativo para Escritórios**
+- Automação de rotinas  
+- Painel moderno e rápido  
+- Deploy containerizado com Docker  
+
+### 🏋️ **App de Treinos Inteligentes**
+- Treinos personalizados  
+- Acompanhamento em tempo real  
+- Arquitetura mobile moderna  
+
+> *(Alguns privados — portfólio público em expansão)*
+
+---
+
+# 📈 Estatísticas Técnicas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deverton1&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverton1&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🎬 Dev Animation — Meu estilo
+
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%" />
+
+---
+
+# 🌐 Conecte-se Comigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Everton-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/everton-rabelo-511616286)
 [![GitHub](https://img.shields.io/badge/GitHub-Everton-lightgrey?style=for-the-badge&logo=github)](https://github.com/deverton1)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:evertonrabelo113@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:evertonrabelo113@gmail.com)
+
+</div>
 
 ---
 
-## 📈 **Estatísticas do GitHub**
+# 🧠 Curiosidades Sobre Mim
+- Minha curiosidade me move: sempre testando novas tecnologias  
+- Adoro resolver problemas complexos  
+- Aprendo rápido, crio mais rápido ainda  
+- Prefiro código limpo a “gambiarras brilhantes”  
+- Sonho grande, executo maior ainda 🚀  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deverton1&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deverton1&layout=compact&theme=radical)
+---
+
+# ✨ Finalizando
+
+Obrigado por visitar meu espaço!  
+Fique à vontade para explorar meus repositórios ou me chamar para trocar ideias.  
+**O mundo real é feito de soluções — e eu gosto de construí-las.**  
